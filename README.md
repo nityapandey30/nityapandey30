@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adiys&label=Profile%20views&color=0e75b6&style=flat" alt="adiys" /> </p>
 
-<p>I'm a passionate developer from Kanpur Institute of Technology, India, pursuing a degree in Computer Science & Engineering. I'm an active contributor to hackathons and a project developer working on smart solutions for a better future.</p>
+<p>I'm a passionate developer from Kanpur Institute of Technology, Kanpur, India, pursuing a degree in Computer Science & Engineering. I'm an active contributor to hackathons and a project developer working on smart solutions for a better future.</p>
 
 - 🔭 I’m currently working on an **LLM project** focused on large-scale AI models.
 - 🌱 I’m expanding my skillset by learning **Flutter** for building mobile apps.
