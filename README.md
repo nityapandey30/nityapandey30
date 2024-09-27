@@ -9,7 +9,7 @@
 
 - 🔭 Currently working on an **LLM project** focused on large-scale AI models.
 - 🌱 Expanding my skillset by learning **Flutter** for mobile app development.
-- 🏆 Awarded at HackIndia for excellence in **WEB3** and **App Development**.
+- 🏆 Awarded at HackIndia Hackathons for excellence in **WEB3** and **App Development**.
 - 📫 Connect with me: **pvm.nitya.pandey@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
