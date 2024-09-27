@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Nitya Pandey</h1>
-<h3 align="center">Developer | IoT Enthusiast |Cloud Computing</h3>
+<h3 align="center">Developer | Data Structure & Algorithm |Cloud Computing</h3>
 
 <img align='right' alt='coding' width='400' src='https://miro.medium.com/v2/resize:fit:1360/1*VON9gHTrzeHZbHfXsqfzEA.gif'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adiys&label=Profile%20views&color=0e75b6&style=flat" alt="adiys" /> </p>
 
-<p>I'm a passionate developer from Kanpur, India, pursuing a degree in Computer Science & Engineering, specializing in IoT, AI/ML, and Embedded Systems. I'm an active contributor to hackathons, a campus ambassador, and a project developer working on smart solutions for a better future.</p>
+<p>I'm a passionate developer from Kanpur Institute of Technology, India, pursuing a degree in Computer Science & Engineering. I'm an active contributor to hackathons and a project developer working on smart solutions for a better future.</p>
 
 - 🔭 I’m currently working on an **LLM project** focused on large-scale AI models.
 - 🌱 I’m expanding my skillset by learning **Flutter** for building mobile apps.
-- 🏆 Awarded in several hackathons and science exhibitions for my work in **IoT** and **AI-powered innovations**.
+- 🏆 Awarded HackIndia hackathons for my work in **WEB3** and **App Development**.
 - 📫 Feel free to reach me at **pvm.nitya.pandey@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
